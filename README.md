@@ -61,6 +61,8 @@ The project focuses on three main questions:
 
 *(Replace X and Y with actual percentages after running the notebook.)*
 
+---
+
 👨‍💻 Author
 
 Abhijeet Sah
